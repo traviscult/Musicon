@@ -100,8 +100,13 @@
   }
   
   .instrument {
+    background-color: white;
+    opacity: 0.9;
     width: 90%;
     overflow: auto;
+    padding: 2%, 5%;
+    margin: 5%, auto;
+    border-radius: 5px;
   
   }
   
